@@ -7,5 +7,6 @@
 
 
 aviso!       
+
 <strong>"</strong>  _É importante esclarecer que a previsão feita pela Oráculo AI é baseada em dados históricos e em análises estatísticas. Embora o projeto tenha sido desenvolvido com o objetivo de tentar prever a frequência de saída do jogo, não há garantias de que as previsões serão precisas em todos os casos. É possível que a previsão falhe e que os números sorteados não correspondam à previsão feita pela Oráculo AI. Portanto, a previsão deve ser vista como uma ideia ou palpite, e não como uma garantia de sucesso no jogo._ <strong>"</strong> 
 
